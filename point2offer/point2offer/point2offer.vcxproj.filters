@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20_二进制中1的个数.cpp">
+    <ClCompile Include="24_删除链表中的重复节点_重做.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

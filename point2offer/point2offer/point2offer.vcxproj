@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20_二进制中1的个数.cpp" />
+    <ClCompile Include="24_删除链表中的重复节点_重做.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2504BC3D-DE30-4171-8304-B26A10856685}</ProjectGuid>
